@@ -1,1 +1,1 @@
-# remote-config-cpp
+# Remote Config C++
