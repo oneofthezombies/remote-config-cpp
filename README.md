@@ -1,1 +1,1 @@
-# Remote Config C++
+# Remote Config System Demo
